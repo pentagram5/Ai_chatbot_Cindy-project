@@ -1,5 +1,7 @@
 # Ai_chatbot_Cindy-project
+* Cindy_project Maintainers - 구대웅, [김준연](https://github.com/pentagram5), 박태준, 성지연, 정재훈, 황명수, 이민석
 ## 나만의 비서 Cindy 개발기입니다
+
 
 ## Cindy_all process
 <p align="center">

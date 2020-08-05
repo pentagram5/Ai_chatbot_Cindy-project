@@ -13,5 +13,5 @@
 
 ## Ner_Classification
 <p align="center">
-<img width="5000" src=https://user-images.githubusercontent.com/63779100/89381135-a8971900-d733-11ea-89c3-42a816c6f644.png">
+<img width="5000" src="https://user-images.githubusercontent.com/63779100/89381135-a8971900-d733-11ea-89c3-42a816c6f644.png">
 </p>

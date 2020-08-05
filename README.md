@@ -1,5 +1,5 @@
 # Ai_chatbot Cindy project - 나만의 비서! Cindy
-* 소속 : 오라클 자바 교육센터 
+소속 : 오라클 자바 교육센터 
         - 파이썬을 활용한 빅데이터 분석 인공지능(AI) 머신러닝 개발자 양성과정 1기 
 * Cindy_project Maintainers - 구대웅, [김준연](https://github.com/pentagram5), 박태준, 성지연, 정재훈, 황명수, 이민석
 

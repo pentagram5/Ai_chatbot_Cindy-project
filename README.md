@@ -37,7 +37,7 @@ ETRI 의 [한국어 BERT 모델](http://aiopen.etri.re.kr/)을 활용하시려�
 
 Pretrained model for NER_classification:
 
-# 실행방법
+# 실행방법(수정 예정) ->ner, intent learning 코드파일 추가
 ./seq2seq/seq2seq_chatbot_Learning.py 실행 - 대화형 데이터 학습 및 가중치 저장
 
 ./intent_data/intent_cl_Learning.py 실행 - Category data 학습 및 가중치 저장
@@ -45,6 +45,7 @@ Pretrained model for NER_classification:
 ./ner/ner_class_Learning.py 실행 - NER-파악 data 학습 및 가중치 저장 
 
 Cindy_project/pyqt_UI_run.py 실행 -> 저장된 모델들과 가중치 load 및 Cindy 챗봇 실행 
+
 
 
 
@@ -57,6 +58,7 @@ Cindy_project/pyqt_UI_run.py 실행 -> 저장된 모델들과 가중치 load 및
 <p align="left">
 <img width="800" src="https://user-images.githubusercontent.com/63779100/89996754-2758fc80-dcc6-11ea-9002-83dc27515398.PNG">
 </p>
+
 
 ## NER_Classification
 <p align="left">

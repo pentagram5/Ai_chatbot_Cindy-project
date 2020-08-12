@@ -5,12 +5,12 @@
 # 실행화면 
 #### pyqt_UI_run.py 실행
 <div>
-  <img width='300', src="https://user-images.githubusercontent.com/63779100/89993048-1ce83400-dcc1-11ea-85dc-49d396530f88.gif">
-  <img width='300', src="https://user-images.githubusercontent.com/63779100/89993364-8cf6ba00-dcc1-11ea-96e5-23bba4c2669a.gif">
+  <img width='350', src="https://user-images.githubusercontent.com/63779100/89993048-1ce83400-dcc1-11ea-85dc-49d396530f88.gif">
+  <img width='350', src="https://user-images.githubusercontent.com/63779100/89993364-8cf6ba00-dcc1-11ea-96e5-23bba4c2669a.gif">
  </div>
  <div>
- <img width='300', src="https://user-images.githubusercontent.com/63779100/89993454-b3b4f080-dcc1-11ea-8458-b744af9e1993.gif">
- <img width='300', src="https://user-images.githubusercontent.com/63779100/89993458-b4e61d80-dcc1-11ea-8f0d-6284f5797902.gif">
+ <img width='350', src="https://user-images.githubusercontent.com/63779100/89993454-b3b4f080-dcc1-11ea-8458-b744af9e1993.gif">
+ <img width='350', src="https://user-images.githubusercontent.com/63779100/89993458-b4e61d80-dcc1-11ea-8f0d-6284f5797902.gif">
  </div>
 
 ## Requirements

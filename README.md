@@ -3,7 +3,7 @@
 #### * 뉴스, 날씨, 맛집, 버스에 대한 질문이 가능하며, 일상대화도 가능합니다
 
 # 실행화면 
-
+<div>
 <table border='1'>
  <tr>
   <td><img width='300', src="https://user-images.githubusercontent.com/63779100/89993048-1ce83400-dcc1-11ea-85dc-49d396530f88.gif"></td>
@@ -13,7 +13,7 @@
   <td><img width='300', src="https://user-images.githubusercontent.com/63779100/89993454-b3b4f080-dcc1-11ea-8458-b744af9e1993.gif"></td>
   <td><img width='300', src="https://user-images.githubusercontent.com/63779100/89993458-b4e61d80-dcc1-11ea-8f0d-6284f5797902.gif"></td>
  </tr>
-
+</div>
 
 ## Requirements
 Python==3.6.10

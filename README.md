@@ -13,7 +13,7 @@
  <img width='350', src="https://user-images.githubusercontent.com/63779100/89993458-b4e61d80-dcc1-11ea-8f0d-6284f5797902.gif">
  </div>
 
-## Requirements
+# Requirements
 Python==3.6.10
 
 tensorflow==2.1.0
@@ -37,7 +37,7 @@ ETRI 의 [한국어 BERT 모델](http://aiopen.etri.re.kr/)을 활용하시려�
 
 Pretrained model for NER_classification:
 
-## 실행방법
+# 실행방법
 ./seq2seq/seq2seq_chatbot_Learning.py 실행 - 대화형 데이터 학습 및 가중치 저장
 
 ./intent_data/intent_cl_Learning.py 실행 - Category data 학습 및 가중치 저장

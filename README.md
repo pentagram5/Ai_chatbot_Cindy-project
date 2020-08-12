@@ -54,12 +54,12 @@ Cindy_project/pyqt_UI_run.py 실행 -> 저장된 모델들과 가중치 load 및
 </p>
 
 ## Intent_Classification
-<p align="center">
+<p align="left">
 <img width="800" src="https://user-images.githubusercontent.com/63779100/89996754-2758fc80-dcc6-11ea-9002-83dc27515398.PNG">
 </p>
 
 ## NER_Classification
-<p align="center">
+<p align="left">
 <img width="800" src="https://user-images.githubusercontent.com/63779100/89996764-2d4edd80-dcc6-11ea-9972-280e0fc09289.png">
 </p>
 

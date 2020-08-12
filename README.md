@@ -2,6 +2,19 @@
 #### * 나만의 비서 Cindy는 ETRI Korbert(Google bert모델기반) 와 Seq2Seq model을 기반으로 한 자연어처리 대화형 챗봇입니다.
 #### * 뉴스, 날씨, 맛집, 버스에 대한 질문이 가능하며, 일상대화도 가능합니다
 
+# 실행화면 
+
+<table border='1'>
+ <tr>
+  <td><img width='300', src="https://user-images.githubusercontent.com/63779100/89993048-1ce83400-dcc1-11ea-85dc-49d396530f88.gif"></td>
+  <td><img width='300', src="https://user-images.githubusercontent.com/63779100/89993364-8cf6ba00-dcc1-11ea-96e5-23bba4c2669a.gif"></td>
+ </tr>
+ <tr>
+  <td><img width='300', src="https://user-images.githubusercontent.com/63779100/89993454-b3b4f080-dcc1-11ea-8458-b744af9e1993.gif"></td>
+  <td><img width='300', src="https://user-images.githubusercontent.com/63779100/89993458-b4e61d80-dcc1-11ea-8f0d-6284f5797902.gif"></td>
+ </tr>
+
+
 ## Requirements
 Python==3.6.10
 
@@ -35,17 +48,7 @@ Pretrained model for NER_classification:
 
 Cindy_project/pyqt_UI_run.py 실행 -> 저장된 모델들과 가중치 load 및 Cindy 챗봇 실행 
 
-## 실행화면 
 
-<div>
-<img width='300', src="https://user-images.githubusercontent.com/63779100/89993048-1ce83400-dcc1-11ea-85dc-49d396530f88.gif">
-<img width='300', src="https://user-images.githubusercontent.com/63779100/89993364-8cf6ba00-dcc1-11ea-96e5-23bba4c2669a.gif">
-<div>
- 
-<div>
-<img width='300', src="https://user-images.githubusercontent.com/63779100/89993454-b3b4f080-dcc1-11ea-8458-b744af9e1993.gif">
-<img width='300', src="https://user-images.githubusercontent.com/63779100/89993458-b4e61d80-dcc1-11ea-8f0d-6284f5797902.gif">
-<div>
 
 ## Cindy process
 <p align="center">

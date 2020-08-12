@@ -35,7 +35,7 @@ Pretrained model for NER_classification:
 
 Cindy_project/pyqt_UI_run.py 실행 -> 저장된 모델들과 가중치 load 및 Cindy 챗봇 실행 
 
-## 나만의 비서 Cindy 개발기입니다
+## 실행화면 
 
 <div>
 <img width='300', src="https://user-images.githubusercontent.com/63779100/89993048-1ce83400-dcc1-11ea-85dc-49d396530f88.gif">

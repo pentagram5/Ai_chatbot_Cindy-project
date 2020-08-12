@@ -38,7 +38,8 @@ Cindy_project/pyqt_UI_run.py 실행 -> 저장된 모델들과 가중치 load 및
 ## 나만의 비서 Cindy 개발기입니다
 
 <div>
-<img width='200', src="https://user-images.githubusercontent.com/63779100/89993048-1ce83400-dcc1-11ea-85dc-49d396530f88.gif">
+<img width='300', src="https://user-images.githubusercontent.com/63779100/89993048-1ce83400-dcc1-11ea-85dc-49d396530f88.gif">
+<img width='300', src="https://user-images.githubusercontent.com/63779100/89993364-8cf6ba00-dcc1-11ea-96e5-23bba4c2669a.gif">
 <div>
 
 ## Cindy process

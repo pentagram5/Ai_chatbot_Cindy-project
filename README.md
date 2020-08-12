@@ -50,7 +50,7 @@ Cindy_project/pyqt_UI_run.py 실행 -> 저장된 모델들과 가중치 load 및
 
 ## Cindy process
 <p align="center">
-<img width="5000" src="https://user-images.githubusercontent.com/63779100/89380978-6a015e80-d733-11ea-9c40-3d8b8529ba12.jpg">
+<img width="5000" src="https://user-images.githubusercontent.com/63779100/89996152-69357300-dcc5-11ea-8777-d1c1c3eca2a3.png">
 </p>
 
 ## Intent_classiication

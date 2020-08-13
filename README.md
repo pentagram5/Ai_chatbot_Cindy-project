@@ -33,13 +33,16 @@ ETRI 의 [한국어 BERT 모델](http://aiopen.etri.re.kr/)을 활용하시려�
 Pretrained model for NER_classification:
 
 # 실행방법
-./seq2seq/seq2seq_chatbot_Learning.py 실행 - 대화형 데이터 학습 및 가중치 저장
-
 ./Intent_cl/intent_cl_Learning.py 실행 - Category data 학습 및 가중치 저장
 
 ./ner/ner_Learning.py 실행 - NER-파악 data 학습 및 가중치 저장 
 
 Cindy_project/pyqt_UI_run.py 실행 -> 저장된 모델들과 가중치 load 및 Cindy 챗봇 실행 
+
+- seq2seq model은 학습된 모델 가중치를 업로드 했습니다. 대화형 데이터 셋을  
+수정하고 다시 학습해보고자 하신다면 ChatbotData_Cindy.csv를 수정하시고
+./seq2seq/seq2seq_chatbot_Learning.py 를 실행해주세요.  
+학습에 사용된 vocab_dict는 동일한 pickle파일로 호출해주셔야 합니다. 
 
 
 

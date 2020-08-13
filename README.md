@@ -32,6 +32,12 @@ ETRI 의 [한국어 BERT 모델](http://aiopen.etri.re.kr/)을 활용하시려�
 
 Pretrained model for NER_classification:
 
+### Requirements 통합설치 
+```
+pip install -r requirements.txt
+```
+
+
 # 실행방법
 ./Intent_cl/intent_cl_Learning.py 실행 - Category data 학습 및 가중치 저장
 

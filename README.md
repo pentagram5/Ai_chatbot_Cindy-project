@@ -58,7 +58,7 @@ Cindy_project/pyqt_UI_run.py 실행 -> 저장된 모델들과 가중치 load 및
 | ------ | ------ | ------ |------ | ------ |
 | Intent_CL | 10 | 10 | Google Colab | GPU 런타임 기준 약 50분 |
 | NER | 32 | 3 | Google Colab | TPU 런타임 기준 약 20분 |
-| Seq2seq | 100 | 10 | GPU : RTX 2080 Ti | 약 20 |
+| Seq2seq | 100 | 10 | Local PC GPU | RTX 2080 TI 기준 약 20시간 |
 
 
 

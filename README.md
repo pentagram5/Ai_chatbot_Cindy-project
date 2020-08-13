@@ -49,21 +49,6 @@ pip install -r requirements.txt
 | Seq2seq | 100 | 10 | Local PC GPU | RTX 2080 TI 기준 약 20시간 |
 
 
-# 실행방법
-./Intent_cl/intent_cl_Learning.py 실행 - Category data 학습 및 가중치 저장
-
-./ner/ner_Learning.py 실행 - NER-파악 data 학습 및 가중치 저장 
-
-Cindy_project/pyqt_UI_run.py 실행 -> 저장된 모델들과 가중치 load 및 Cindy 챗봇 실행 
-
-- seq2seq model은 학습된 모델 가중치를 업로드 했습니다. 대화형 데이터 셋을  
-수정하고 다시 학습해보고자 하신다면 ChatbotData_Cindy.csv를 수정하시고
-./seq2seq/seq2seq_chatbot_Learning.py 를 실행해주세요. 학습에 사용된 vocab_dict는 동일한 pickle파일로 호출해주셔야 합니다. 
-
-
-
-
-
 ## Cindy process
 <p align="left">
 <img width="800" src="https://user-images.githubusercontent.com/63779100/89996152-69357300-dcc5-11ea-8777-d1c1c3eca2a3.png">
@@ -84,6 +69,19 @@ Bus Answer : Get_Bus() - Seoul Bus API Crawling<br>
 <p align="left">
 <img width="800" src="https://user-images.githubusercontent.com/63779100/89996764-2d4edd80-dcc6-11ea-9972-280e0fc09289.png">
 </p>
+
+
+
+# 실행방법
+./Intent_cl/intent_cl_Learning.py 실행 - Category data 학습 및 가중치 저장
+
+./ner/ner_Learning.py 실행 - NER-파악 data 학습 및 가중치 저장 
+
+Cindy_project/pyqt_UI_run.py 실행 -> 저장된 모델들과 가중치 load 및 Cindy 챗봇 실행 
+
+- seq2seq model은 학습된 모델 가중치를 업로드 했습니다. 대화형 데이터 셋을  
+수정하고 다시 학습해보고자 하신다면 ChatbotData_Cindy.csv를 수정하시고
+./seq2seq/seq2seq_chatbot_Learning.py 를 실행해주세요. 학습에 사용된 vocab_dict는 동일한 pickle파일로 호출해주셔야 합니다. 
 
 
 ###  오라클 자바 교육센터 - 파이썬을 활용한 빅데이터 분석 인공지능(AI) 머신러닝 개발자 양성과정 1기 

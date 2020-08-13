@@ -39,6 +39,16 @@ pip install -r requirements.txt
 ```
 
 
+
+# Hyperparameters 
+
+| Model | batch size | epoch | 학습환경 | 학습시간 |
+| ------ | ------ | ------ |------ | ------ |
+| Intent_CL | 10 | 10 | Google Colab | GPU 런타임 기준 약 50분 |
+| NER | 32 | 3 | Google Colab | TPU 런타임 기준 약 20분 |
+| Seq2seq | 100 | 10 | Local PC GPU | RTX 2080 TI 기준 약 20시간 |
+
+
 # 실행방법
 ./Intent_cl/intent_cl_Learning.py 실행 - Category data 학습 및 가중치 저장
 
@@ -51,14 +61,6 @@ Cindy_project/pyqt_UI_run.py 실행 -> 저장된 모델들과 가중치 load 및
 ./seq2seq/seq2seq_chatbot_Learning.py 를 실행해주세요. 학습에 사용된 vocab_dict는 동일한 pickle파일로 호출해주셔야 합니다. 
 
 
-
-# Hyperparameters 
-
-| Model | batch size | epoch | 학습환경 | 학습시간 |
-| ------ | ------ | ------ |------ | ------ |
-| Intent_CL | 10 | 10 | Google Colab | GPU 런타임 기준 약 50분 |
-| NER | 32 | 3 | Google Colab | TPU 런타임 기준 약 20분 |
-| Seq2seq | 100 | 10 | Local PC GPU | RTX 2080 TI 기준 약 20시간 |
 
 
 

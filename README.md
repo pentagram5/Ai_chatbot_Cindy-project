@@ -52,6 +52,13 @@ Cindy_project/pyqt_UI_run.py 실행 -> 저장된 모델들과 가중치 load 및
 
 
 
+## Hyperparameters 
+
+|| model | eval_accuracy  |   eval_loss | 
+|| ------ | ------ | ------ | 
+||ETRI+mecab| 65.05 | 1.303 |
+
+
 
 ## Cindy process
 <p align="left">

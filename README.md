@@ -23,8 +23,7 @@ konlpy==0.5.2
 Keras==2.4.3  
 
 ### Pretrained model for intent_classification :
-keras_bert, 
-keras_radam
+Requirements - keras_bert, keras_radam
 
 ETRI Korean_BERT_WordPiece - 
 ETRI 의 [한국어 BERT 모델](http://aiopen.etri.re.kr/)을 활용하시려면 다음의 [링크](http://aiopen.etri.re.kr/service_dataset.php) 에서 서약서를 작성하시고 키를 받으셔서 다운받으시면 됩니다. 
@@ -59,11 +58,11 @@ Cindy_project/pyqt_UI_run.py 실행 -> 저장된 모델들과 가중치 load 및
 <p align="left">
 <img width="800" src="https://user-images.githubusercontent.com/63779100/89996152-69357300-dcc5-11ea-8777-d1c1c3eca2a3.png">
 </p>  
-* Normal Answer : seq2seq Model Return  
-* Weather Answer : Get_Weather() - Google Search Weather Crawling  
-* News Answer : Get_News() - Naver News Crawling  
-* Food Answer : Get_Food() - Daum Map Search Crawling  
-* Bus Answer : Get_Bus() - Seoul Bus API Crawling  
+*Normal Answer : seq2seq Model Return  
+*Weather Answer : Get_Weather() - Google Search Weather Crawling  
+*News Answer : Get_News() - Naver News Crawling  
+*Food Answer : Get_Food() - Daum Map Search Crawling  
+*Bus Answer : Get_Bus() - Seoul Bus API Crawling  
 
 ## Intent_Classification
 <p align="left">

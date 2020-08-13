@@ -52,13 +52,13 @@ Cindy_project/pyqt_UI_run.py 실행 -> 저장된 모델들과 가중치 load 및
 
 
 
-## Hyperparameters 
+# Hyperparameters 
 
 | Model | batch size | epoch | 학습환경 | 학습시간 |
 | ------ | ------ | ------ |------ | ------ |
-| Intent_CL | 65.05 | 1.303 | ddd | ddd |
-| NER | 65.05 | 1.303 | ddd | ddd |
-| Seq2seq | 65.05 | 1.303 | ddd | ddd |
+| Intent_CL | 10 | 10 | Google Colab | GPU 런타임 기준 약 50분 |
+| NER | 32 | 3 | Google Colab | TPU 런타임 기준 약 20분 |
+| Seq2seq | 100 | 10 | GPU : RTX 2080 Ti | 약 20 |
 
 
 

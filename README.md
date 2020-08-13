@@ -29,9 +29,10 @@ konlpy==0.5.2
 Keras==2.4.3
 
 Pretrained model for intent_classification :
+keras_bert
+keras_radam
 
-ETRI Korean_BERT_WordPiece
-
+ETRI Korean_BERT_WordPiece - 
 ETRI 의 [한국어 BERT 모델](http://aiopen.etri.re.kr/)을 활용하시려면 다음의 [링크](http://aiopen.etri.re.kr/service_dataset.php) 에서 서약서를 작성하시고 키를 받으셔서 다운받으시면 됩니다. 
 (사용 허가 협약서를 준수하기 때문에 pretrained 모델을 공개하지 않습니다.**)
 

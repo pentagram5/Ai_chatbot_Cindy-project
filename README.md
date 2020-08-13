@@ -43,7 +43,7 @@ Pretrained model for NER_classification:
 
 ./Intent_cl/intent_cl_Learning.py 실행 - Category data 학습 및 가중치 저장
 
-./ner/ner_class_Learning.py 실행 - NER-파악 data 학습 및 가중치 저장 
+./ner/ner_Learning.py 실행 - NER-파악 data 학습 및 가중치 저장 
 
 Cindy_project/pyqt_UI_run.py 실행 -> 저장된 모델들과 가중치 load 및 Cindy 챗봇 실행 
 

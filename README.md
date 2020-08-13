@@ -41,7 +41,7 @@ Pretrained model for NER_classification:
 # 실행방법(수정 예정) ->ner, intent learning 코드파일 추가
 ./seq2seq/seq2seq_chatbot_Learning.py 실행 - 대화형 데이터 학습 및 가중치 저장
 
-./intent_data/intent_cl_Learning.py 실행 - Category data 학습 및 가중치 저장
+./Intent_cl/intent_cl_Learning.py 실행 - Category data 학습 및 가중치 저장
 
 ./ner/ner_class_Learning.py 실행 - NER-파악 data 학습 및 가중치 저장 
 

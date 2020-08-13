@@ -58,11 +58,11 @@ Cindy_project/pyqt_UI_run.py 실행 -> 저장된 모델들과 가중치 load 및
 <p align="left">
 <img width="800" src="https://user-images.githubusercontent.com/63779100/89996152-69357300-dcc5-11ea-8777-d1c1c3eca2a3.png">
 </p>  
-*Normal Answer : seq2seq Model Return  
-*Weather Answer : Get_Weather() - Google Search Weather Crawling  
-*News Answer : Get_News() - Naver News Crawling  
-*Food Answer : Get_Food() - Daum Map Search Crawling  
-*Bus Answer : Get_Bus() - Seoul Bus API Crawling  
+*Normal Answer : seq2seq Model Return<br>
+*Weather Answer : Get_Weather() - Google Search Weather Crawling<br>
+*News Answer : Get_News() - Naver News Crawling<br>
+*Food Answer : Get_Food() - Daum Map Search Crawling<br>  
+*Bus Answer : Get_Bus() - Seoul Bus API Crawling<br>
 
 ## Intent_Classification
 <p align="left">

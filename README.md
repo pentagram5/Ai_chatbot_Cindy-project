@@ -33,7 +33,7 @@ ETRI 의 [한국어 BERT 모델](http://aiopen.etri.re.kr/)을 활용하시려�
 Tokenizer - [SentencePiece](https://github.com/google/sentencepiece)  
 koBert_Model - monologg님의 kobert를 활용하여 진행하였습니다.  
 
-### Requirements 통합설치 
+### Requirements Install 
 ```
 pip install -r requirements.txt
 ```

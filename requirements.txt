@@ -13,8 +13,8 @@ selenium==3.141.0
 sentencepiece==0.1.91
 tensorflow==2.1.0
 tokenizers==0.8.1rc1
-torch==1.5.1+cu101
-torchvision==0.6.1+cu101
+torch
+torchvision
 tqdm==4.48.0
 transformers==3.0.2
 urllib3==1.25.9

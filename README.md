@@ -22,7 +22,7 @@ konlpy==0.5.2
 Keras==2.4.3  
 torch,torchvision -> https://pytorch.org/
 
-### Pretrained model for intent_classification :
+### Pretrained model for Intent_classification -
 Requirements - keras_bert, keras_radam
 
 ETRI Korean_BERT_WordPiece - 

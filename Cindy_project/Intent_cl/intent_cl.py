@@ -137,7 +137,7 @@ class Intent_model():
     
     self.max_len = 29
     self.config_path = './Intent_cl/Bert_model/bert_config.json'
-    self.data = pd.read_csv('./Intent_cl/Bert_model/category_data')
+    self.data = pd.read_csv('./Intent_cl/Intent_dataset/category_data.csv')
     with open('./Intent_cl/Bert_model/vocab.json', 'r') as read_file:
         self.vocab = json.loads(read_file.read())
 
@@ -147,15 +147,10 @@ class Intent_model():
       self.bert_params.adapter_size = None
 
 
-    self.intent_model = keras.models.load_model('./Intent_cl/Bert_model/kobert_model_category.h5',
-                                        custom_objects={"BertModelLayer":BertModelLayer.from_params(self.bert_params, name="bert")} )
+    self.intent_model = keras.models.load_model('./Intent_cl/Bert_model/nomal_news_weather_etc_kobert_model_category.h5',
+                                                custom_objects={"BertModelLayer":BertModelLayer.from_params(self.bert_params, name="bert")} )
     self.classes = self.data.intent.unique().tolist()
-    token_ids = []
 
-    # for i in token_sentence:
-    #   token_ids.append(convert_by_vocab(self.vocab, i))
-    # self.max_len = max([len(i) for i in token_ids])
-    
 
   def intent_classification(self, text):
     padding_text = WordpieceTokenizer(self.vocab)

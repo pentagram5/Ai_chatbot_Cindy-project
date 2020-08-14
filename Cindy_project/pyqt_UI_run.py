@@ -11,7 +11,7 @@
 from PyQt5 import QtCore, QtGui, QtWidgets
 from seq2seq.Seq2Seq_model_class import seq2seq
 from ner import ner_class
-from intent_data.intent_cl import Intent_model
+# from Intent_cl.intent_cl import Intent_model
 from bs4 import BeautifulSoup
 import requests
 import pandas as pd
@@ -276,13 +276,13 @@ if __name__ == "__main__":
     import sys
     seq2 = seq2seq() #seq2seq 모델 객체 생성
     ner = ner_class.NER()
-    intent = Intent_model()
+    # intent = Intent_model()
     #kbt = ner_class.KoBertTokenizer()
     ner.create_model()
     app = QtWidgets.QApplication(sys.argv)
     MainWindow = QtWidgets.QMainWindow()
-    ui = Ui_MainWindow(seq2,ner, intent)
-    ui.setupUi(MainWindow)
+    # ui = Ui_MainWindow(seq2,ner, intent)
+    # ui.setupUi(MainWindow)
     MainWindow.show()
     sys.exit(app.exec_())
 

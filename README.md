@@ -1,7 +1,7 @@
 [![Generic badge](https://img.shields.io/badge/OS-Window10-green.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Language-Python-blue.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Framework-Tensorflow,PyTorch,Keras-orange.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/UI editor-PyQt5-green.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/UI-editor-PyQt5-green.svg)](https://shields.io/)
 
 # Ai_chatbot Cindy project - 나만의 비서 Cindy
 #### * 나만의 비서 Cindy는 ETRI Korbert(Google bert모델기반) 와 Seq2Seq model을 기반으로 한 자연어처리 대화형 챗봇입니다.
